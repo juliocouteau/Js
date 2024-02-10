@@ -1,0 +1,10 @@
+.message {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.valid {
+    color: green;
+}
+.invalid {
+    color: red;
+}
